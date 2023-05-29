@@ -40,6 +40,11 @@ a.red.meat.active {
     text-align: center;
 }
 
+#pork {
+    background-color: red;
+    text-align: center;
+}
+
 .dish {
     height: auto;
     width: 400px;
