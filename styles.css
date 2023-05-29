@@ -35,6 +35,11 @@ a.red.meat.active {
     text-align: center;
 }
 
+#chicken {
+    background-color: beige;
+    text-align: center;
+}
+
 .dish {
     height: auto;
     width: 400px;
