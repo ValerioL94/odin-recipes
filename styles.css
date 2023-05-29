@@ -1,0 +1,32 @@
+#title {
+    background-color:burlywood;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:40px;
+    text-align: center;
+}
+
+.recipes {
+    font-family: Arial, Helvetica, sans-serif; 
+    font-weight:700;  
+    font-size: 22px;
+}
+
+a.seafood:link, 
+a.seafood:visited, 
+a.seafood:active {
+    background-color:aquamarine;
+}
+
+a.white.meat:link,
+a.white.meat.visited,
+a.white.meat.active {
+    background-color:beige;
+}
+
+a.red.meat:link,    
+a.red.meat.visited,
+a.red.meat.active {
+    background-color: red;
+}
+
