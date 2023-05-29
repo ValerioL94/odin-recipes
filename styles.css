@@ -15,7 +15,7 @@
 a.seafood:link, 
 a.seafood:visited, 
 a.seafood:active {
-    background-color:aquamarine;
+    background-color:aqua;
 }
 
 a.white.meat:link,
@@ -30,3 +30,28 @@ a.red.meat.active {
     background-color: red;
 }
 
+#shrimp {
+    background-color: aqua;
+    text-align: center;
+}
+
+.dish {
+    height: auto;
+    width: 400px;
+}
+
+.desc {
+    color: brown;
+}
+
+.ing {
+    color: chocolate;
+}
+
+.sub-ing {
+    color:coral
+}
+
+.steps {
+    color: red;
+}
