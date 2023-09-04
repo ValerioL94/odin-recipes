@@ -2,32 +2,31 @@
     padding: 5px;
     border: 2px solid rgb(255, 187, 0);
     text-align: center;
-    background-color:burlywood;
+    background-color: burlywood;
     color: black;
     font-family: Arial, Helvetica, sans-serif;
-    font-size:40px;
+    font-size: 40px;
 }
 
 .recipes {
-    display:flex;
-    font-family: Arial, Helvetica, sans-serif; 
-    font-weight:700;  
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
     font-size: 22px;
 }
 
-a.seafood:link, 
-a.seafood:visited, 
+a.seafood:link,
+a.seafood:visited,
 a.seafood:active {
-    background-color:aqua;
+    background-color: aqua;
 }
 
 a.white.meat:link,
 a.white.meat.visited,
 a.white.meat.active {
-    background-color:beige;
+    background-color: rgb(247, 247, 150);
 }
 
-a.red.meat:link,    
+a.red.meat:link,
 a.red.meat.visited,
 a.red.meat.active {
     background-color: red;
@@ -62,7 +61,7 @@ a.red.meat.active {
 }
 
 .sub-ing {
-    color:coral
+    color: coral
 }
 
 .steps {
